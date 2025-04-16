@@ -1,7 +1,6 @@
 # Library Management System
 
-**A C++ console-based LMS**  
-*Developed for Computer Programming (CP) course*
+This is a *C++ console-based* Library Management System developed for *Computer Programming (CP) course*
 
 ## Features
 - **User Roles**:
