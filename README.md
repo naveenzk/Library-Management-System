@@ -28,8 +28,7 @@
 2. **Setup**:
    ```bash
    git clone https://github.com/naveenzk/Library-Management-System
-.git
-   cd Library-Management-System
+
    ```
 3. **Required Files**:
    - `books.txt` (Already included in repo)
